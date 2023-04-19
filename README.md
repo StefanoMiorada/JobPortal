@@ -1,0 +1,32 @@
+### Da correggere:
+- 6 (Stefano)
+- 7 (Stefano)
+- Tooltip in registrazione è cliccabile sarebbe meglio di no (Matteo)
+- 9 e 10 (Matteo)
+- 16 (Matteo)
+- 20 (Matteo)
+- 22 (Matteo)
+- 23 24 25 26 (Matteo)
+- Resize bottone scroll to top (Stefano)
+- 27 (Stefano)
+- 29 (Matteo)
+- 33 (Stefano)
+- 34 (Matteo)
+- 36 (Stefano)
+- 39 (Stefano)
+- 40 (Stefano)
+
+### Problemi già corretti:
+- 2
+- 3
+- 4
+- 5
+- 8
+- 11
+- 12
+- 13
+- 21
+- 31
+- 32
+- 35
+- 43
